@@ -6,6 +6,15 @@ function esPar(num) {
   // 14 ---> true
   // 15 ---> false
   // Tu código:
+  var num = 15;
+  if (num.esPar){
+    
+    return false;
+    
+  }else 
+    
+    return true;
+  
 }
 
 module.exports = esPar;
