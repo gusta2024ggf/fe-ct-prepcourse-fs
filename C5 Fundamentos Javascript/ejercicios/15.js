@@ -6,14 +6,14 @@ function esPar(num) {
   // 14 ---> true
   // 15 ---> false
   // Tu código:
-  var num = 15;
+  var num = 14;
   if (num.esPar){
     
-    return false;
+    return true;
     
   }else 
     
-    return true;
+    return false;
   
 }
 
