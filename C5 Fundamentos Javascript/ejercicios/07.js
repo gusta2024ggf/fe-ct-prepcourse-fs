@@ -3,9 +3,9 @@ function esTipoDato(number) {
   // Retorna el tipo de dato de este valor.
   // Por ejemplo: "string", "number", "boolean", "object", etc.
   // Tu código:
-  var a = 8 + 6;
-  var b = 4 - 2;
-  var c = a + b;
+var number = 6;
+  return number;
+  
 }
 
 module.exports = esTipoDato;
