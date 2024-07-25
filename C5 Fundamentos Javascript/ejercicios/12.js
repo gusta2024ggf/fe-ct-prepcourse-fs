@@ -15,8 +15,9 @@ function tienenMismaLongitud(str1, str2) {
     
   }   else {
     
-    return false
+    return false;
   
+}
 }
 
 module.exports = tienenMismaLongitud;

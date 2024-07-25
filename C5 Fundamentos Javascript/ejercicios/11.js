@@ -8,12 +8,13 @@ function sonIguales(x, y) {
   // Tu código:
   var x = 5;
   var y = 5;
-  var argumento = [x,y];
+ 
   if(x == y){
-    argumento = true;
+    return  true;
   }else
-  {  argumento = false;
-  }
-  return argumento;
+  
+    return  false;
+  
 
+}
 module.exports = sonIguales;
