@@ -1,6 +1,6 @@
 // Crea una variable de tipo string.
 // Reemplaza el valor de null por el correspondiente.
 
-const nuevoString= strings;
+const nuevoString= 'hola, mundo!;
 
-module.exports = nuevoString;
+module.exports = toString;
