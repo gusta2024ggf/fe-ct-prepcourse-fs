@@ -7,14 +7,14 @@ function esNumeroEntero(numero) {
   // -1212 ---> true 
   // 121.212 ---> false 
   // Tu código:
-  var numEntero = 24;
-  if(numEntero >=0){
-    numEntero = true
+  var numero = 24;
+  if(numero >=0){
+    numero = true
   }
   else{
     numero = false
   }
-  return numEntero;
+  return numero;
 
   
 
