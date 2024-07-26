@@ -6,13 +6,7 @@ function resta(x, y) {
   // 5, 5 ---> 0
   // Tu código:
 
-var x = 10;
-  var y = 5;
-  return x - y;
 
-
-console.log(resta(10, 5)); // muestra 5
-console.log(resta(5, 5)); // muestra 0
 }
 
 module.exports = resta;
