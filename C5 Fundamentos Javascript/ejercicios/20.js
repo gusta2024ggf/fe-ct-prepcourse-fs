@@ -6,7 +6,8 @@ function resta(x, y) {
   // 5, 5 ---> 0
   // Tu código:
 
-
+let x = 10;
+  let y = 5;
   return x - y;
 
 
