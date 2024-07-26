@@ -6,10 +6,13 @@ function suma(x, y) {
   // -5, 5 ---> 0
   // Tu código:
 
-    let x = 5;
-    let y = 5;
-    const suma = x + y;
-    return suma;
+   
+    return x + y;
+
+
+console.log(suma(5, 5)); // muestra 10
+console.log(suma(-5, 5)); // muestra 0
+
 
 }
 
