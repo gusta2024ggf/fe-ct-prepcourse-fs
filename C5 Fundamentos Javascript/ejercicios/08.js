@@ -7,15 +7,11 @@ function esNumeroEntero(numero) {
   // -1212 ---> true 
   // 121.212 ---> false 
   // Tu código:
-  var numero = 24;
-  if(numero >=0){
-    return numero = true
-  }
-  else{
-    return numero = false
-  }
-  return numero;
-
+ if(Number.isInteger(numero)=== true){
+  return true;
+}else{
+  return false;
+}
   
 
 }
