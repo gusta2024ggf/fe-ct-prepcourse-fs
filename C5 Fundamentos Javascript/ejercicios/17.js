@@ -9,7 +9,7 @@ function esPositivo(num) {
   var num = 4;
   if(num >= 0) {
     return "El numero es positivo ";
-} if(num <=0)
+} else if(num <=0)
   {
     return "El numero es negativo ";
   }else(num = 0) 
