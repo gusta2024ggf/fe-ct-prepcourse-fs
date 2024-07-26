@@ -10,7 +10,7 @@ function esVocal(letra) {
   // Tu código:
  if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u")
  {
-   return "Dato correcto";
+   return "esVocal";
  }
 }else{
   return "Dato incorrecto";
