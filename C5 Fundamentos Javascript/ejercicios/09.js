@@ -8,13 +8,13 @@ function esNuloOIndefinido(valor) {
   // 22 ---> false
   // "texto" ---> false
   // Tu código:
-  var valor;
-  if(valor === 'hola'){
-    return false;
-  }else{
-    return true;
-  }
-    
+ if(valor === null)return true
+ else if (valor === undefined)return true
+ else return false
+
+
+
+
   
 
 }

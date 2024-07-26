@@ -6,14 +6,9 @@ function esImpar(num) {
   // 15 ---> true
   // 14 ---> false
   // Tu código:
-  var num = 15;
-  if (num.esImpar){
-    
-    return true;
-    
-  }else 
-    
-    return false;
+ 
+ if(num % 2 !== 0)return true
+ else return false
   
 }
 

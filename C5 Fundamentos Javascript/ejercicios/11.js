@@ -6,14 +6,8 @@ function sonIguales(x, y) {
   // 5, 5 ---> true 
   // 5, 8 ---> false 
   // Tu código:
-  var x = 5;
-  var y = 5;
- 
-  if(x == y){
-    return  true;
-  }else
-  
-    return  false;
+  if(x === y)return true
+  else return false
   
 
 }
