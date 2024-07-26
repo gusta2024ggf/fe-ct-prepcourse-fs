@@ -5,8 +5,8 @@ function multiplica(x, y) {
   // 10, 5 ---> 50
   // 5, 5 ---> 25
   // Tu código:
-   let x = 5;
-  let y = 5;
+   var x = 5;
+  var y = 5;
   const multiplica = x * y;
   return multiplica;
 }
