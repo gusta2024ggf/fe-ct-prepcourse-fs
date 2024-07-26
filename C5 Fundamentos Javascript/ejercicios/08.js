@@ -9,10 +9,10 @@ function esNumeroEntero(numero) {
   // Tu código:
   var numero = 24;
   if(numero >=0){
-    numero = true
+    return numero = true
   }
   else{
-    numero = false
+    return numero = false
   }
   return numero;
 
