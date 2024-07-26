@@ -7,6 +7,7 @@ function mayorQueCincuenta(num) {
   // 15 ---> false
   // Tu código:
   var num = 54;
+
   if(num >= 50){
     return true;
   }else{
