@@ -5,9 +5,9 @@ function resta(x, y) {
   // 10, 5 ---> 5
   // 5, 5 ---> 0
   // Tu código:
-   var x = 10;
-  var y = 5;
-  var suma = x - y;
+   let x = 10;
+  let y = 5;
+  const resta = x - y;
   return resta;
 }
 
