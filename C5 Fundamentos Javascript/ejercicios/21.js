@@ -5,7 +5,7 @@ function multiplica(x, y) {
   // 10, 5 ---> 50
   // 5, 5 ---> 25
   // Tu código:
-const multiply = x => y => x * y;
-console.log(multiply(4)(3));
+const multiplica = x => y => x * y;
+console.log(multiplica(4)(3));
 
 module.exports = multiplica;
