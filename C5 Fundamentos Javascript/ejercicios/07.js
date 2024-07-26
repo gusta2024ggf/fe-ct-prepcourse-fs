@@ -4,7 +4,9 @@
   // Por ejemplo: "string", "number", "boolean", "object", etc.
   // Tu código:
   
-
+  
+let valor = string;
+return valor;
 
 
 
