@@ -7,7 +7,7 @@ function divide(x, y) {
   // Tu código:
    let x = 5;
   let y = 5;
-  const divide = x + y;
+  const divide = x / y;
   return divide;
 }
 
