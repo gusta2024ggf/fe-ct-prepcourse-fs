@@ -5,9 +5,9 @@ function obtenerResto(x, y) {
   // 10, 5 ---> 0
   // 16, 5 ---> 1
   // Tu código:
-   var x = 5;
-  var y = 5;
-  var suma = x % y;
+   let x = 5;
+  let y = 5;
+  const obtenerResto = x % y;
   return obtenerResto;
 }
 
