@@ -11,8 +11,8 @@ function esVocal(letra) {
  if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u")
  {
    return "esVocal";
- }
-}else{
+ }else{
   return "Dato incorrecto";
+}
 }
 module.exports = esVocal;
