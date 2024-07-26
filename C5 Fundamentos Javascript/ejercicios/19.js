@@ -8,8 +8,7 @@ function suma(x, y) {
 
     let x = 5;
     let y = 5;
-    let suma;
-    suma = x + y;
+    const suma = x + y;
     return suma;
 
 }
