@@ -8,7 +8,8 @@ function suma(x, y) {
 
      var x = 5;
     var y = 5;
-    return x + y;
+  let suma = x + y;
+    return suma;
 
 
 console.log(suma(5, 5)); // muestra 10
