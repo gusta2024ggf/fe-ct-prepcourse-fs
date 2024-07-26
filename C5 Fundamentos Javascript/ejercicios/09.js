@@ -9,7 +9,7 @@ function esNuloOIndefinido(valor) {
   // "texto" ---> false
   // Tu código:
   var valor;
-  if(valor === 'hola'){
+  if(valor === "texto"){
     return false;
   }else{
     return true;
