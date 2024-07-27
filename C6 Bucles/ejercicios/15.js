@@ -6,7 +6,11 @@ function obtenerDiaSemana(numero) {
   // Si el número no corresponde a un día de la semana, retorna
   // el string "No es un dia de la semana"
   // Tu código:
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 4b3fe454a8a8760911cf66a0b61a433f25088e79
 switch (numero) {
   case 1 :
     return "Lunes"
@@ -28,6 +32,7 @@ switch (numero) {
 
 }
 
+<<<<<<< HEAD
 
 
 
@@ -38,3 +43,6 @@ switch (numero) {
 
 
 module.exports = obtenerDiaSemana;
+=======
+module.exports = obtenerDiaSemana;
+>>>>>>> 4b3fe454a8a8760911cf66a0b61a433f25088e79

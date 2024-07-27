@@ -3,7 +3,10 @@ function doWhile(num) {
   // Retorna el valor final.
   // PISTA: Utiliza el bucle do-while.
   // Tu código:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4b3fe454a8a8760911cf66a0b61a433f25088e79
   var i = 0
 
   do{

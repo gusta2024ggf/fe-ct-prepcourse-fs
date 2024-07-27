@@ -4,7 +4,10 @@ function esPositivoOInferiorA10(a) {
    // Retorna false en caso contrario.
    // Tu código:
    return a >= 0 && a < 10
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4b3fe454a8a8760911cf66a0b61a433f25088e79
 }
 
 module.exports = esPositivoOInferiorA10;
