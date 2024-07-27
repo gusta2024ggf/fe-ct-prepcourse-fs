@@ -7,8 +7,6 @@ se return falsefunction esIgualYNegativo(a, b) {
   return a === b && a < 0
 =======
 
- if(a === b && a < 0) return true
-  else return false
   
 >>>>>>> 4b3fe454a8a8760911cf66a0b61a433f25088e79
 }
