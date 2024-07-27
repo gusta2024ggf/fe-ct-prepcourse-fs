@@ -4,8 +4,7 @@ se return falsefunction esIgualYNegativo(a, b) {
   // De ser así, retorna true, de lo contrario, retorna false.
   // Tu código:
 
-  if(a < 0 && b < 0 and a === b)return true
-  else return false
+return a === b && a < 0
   
 }
 
