@@ -17,11 +17,7 @@ function esNuloOIndefinido(valor) {
 
 
 =======
-  var valor;
-  if(valor === "texto"){
-    return false;
-  }else{
-    return true;
+  
   }
     
 >>>>>>> 872eb9afb44acb9f145d796f6712a0a94875a3e7
