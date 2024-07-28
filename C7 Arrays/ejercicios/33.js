@@ -10,12 +10,13 @@ function combine(str1, str2, str3) {
   var finDelBucle = Math.max(str1.lenght,str2.lenght, str3.lenght)
   for(var i = 0; i < finDelBucle; i++){
 
-    var acum = ""
+    var acum = "abc"
    
   
   if(str1[i]) acum = acum + str1[i]
   if(str2[i]) acum =  acum + str2[i]
   if(str3[i]) acum =  acum + str3[i]
+  
   }
   return acum
 }
